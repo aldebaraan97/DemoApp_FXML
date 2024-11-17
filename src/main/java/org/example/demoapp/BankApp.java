@@ -17,6 +17,7 @@ public class BankApp extends Application {
         primaryStage.setTitle("Bank");
         primaryStage.setScene(loginScene);
         primaryStage.show();
+
     }
 
 }
